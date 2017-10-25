@@ -1,4 +1,4 @@
-class employee:
+class Employee:
 	empcount = 0
 	def __init__(self,name,salary):
 		self.name = name
